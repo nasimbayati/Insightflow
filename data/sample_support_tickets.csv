@@ -1,0 +1,13 @@
+ticket_ref,service_team,priority_level,resolution_hours,reopen_count,created_on,resolved_on,issue_type
+T-001,Platform,High,4.5,0,2026-02-01,2026-02-01,Login
+T-002,Billing,Medium,12,1,2026-02-02,2026-02-03,Invoice
+T-003,Platform,Low,36,2,2026-02-03,2026-02-05,Bug
+T-004,Support,High,8,0,2026-02-04,2026-02-04,Access
+T-005,Support,Medium,,0,2026-02-05,2026-02-06,Password Reset
+T-006,Billing,Low,15,0,2026-02-05,not_a_date,Refund
+T-007,Platform,Critical,72,4,2026-02-06,2026-02-09,Outage
+T-008,Support,High,8,0,2026-02-04,2026-02-04,Access
+T-009,Platform,High,three,1,2026-02-07,2026-02-08,API Error
+T-010,Billing,Medium,10,0,,2026-02-10,Invoice
+T-011,Support,Low,5,0,2026-02-08,2026-02-08,
+T-012,Operations,High,240,6,2026-02-10,2026-02-20,Security

@@ -1,0 +1,13 @@
+order_id,client_name,region,product_family,revenue,units_sold,order_date,channel
+1001,Apex Stores,North,Snacks,1200,42,2026-01-05,Online
+1002,Bright Mart,South,Beverages,860,30,2026-01-07,Retail
+1003,City Foods,West,Produce,540,18,2026-01-09,Wholesale
+1004,Delta Shop,North,Snacks,1200,42,2026-01-05,Online
+1005,,East,Dairy,930,27,2026-01-10,Retail
+1006,Evergreen,South,Bakery,,22,2026-01-12,Retail
+1007,Fresh Hub,West,Beverages,not_available,15,2026-01-13,Wholesale
+1008,Green Basket,North,Produce,640,,2026-01-14,Online
+1009,Harvest Co,East,Dairy,15000,5,2026-01-15,Retail
+1010,City Foods,West,Produce,540,18,2026-01-09,Wholesale
+1011,Island Market,South,Snacks,780,25,invalid_date,Online
+1012,Urban Pantry,East,Bakery,910,28,2026-01-18,

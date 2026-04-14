@@ -1,0 +1,11 @@
+id,name,category,price,quantity,date
+1,Apple,Fruit,1.2,10,2024-01-01
+2,Banana,Fruit,0.5,20,2024-01-02
+3,Carrot,Vegetable,0.8,15,2024-01-03
+4,Donut,Bakery,2.5,5,2024-01-04
+5,,Fruit,1.1,12,2024-01-05
+6,Milk,Dairy,,8,2024-01-06
+7,Cheese,Dairy,5.0,,2024-01-07
+8,Bread,Bakery,2.0,10,
+9,Eggs,Dairy,3.5,30,2024-01-09
+10,Apple,Fruit,1.2,10,2024-01-01

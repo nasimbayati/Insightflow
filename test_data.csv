@@ -1,0 +1,21 @@
+id,name,category,price,quantity,date
+1,Apple,Fruit,1.2,10,2024-01-01
+2,Banana,Fruit,0.5,20,2024-01-02
+3,Carrot,Vegetable,0.8,15,2024-01-03
+4,Donut,Bakery,2.5,5,2024-01-04
+5,,Fruit,1.1,12,2024-01-05
+6,Milk,Dairy,,8,2024-01-06
+7,Cheese,Dairy,5.0,,2024-01-07
+8,Bread,Bakery,2.0,10,
+9,Eggs,Dairy,3.5,30,2024-01-09
+10,Chicken,Meat,8.0,7,2024-01-10
+11,Steak,Meat,25.0,2,2024-01-11
+12,Salmon,Meat,15.0,4,2024-01-12
+13,Orange,Fruit,1.3,18,2024-01-13
+14,Lettuce,Vegetable,1.0,9,2024-01-14
+15,Tomato,Vegetable,0.9,25,2024-01-15
+16,Apple,Fruit,1.2,10,2024-01-01
+17,Water,Dairy,9999,1,2024-01-17
+18,Ice Cream,Dairy,4.5,6,not_a_date
+19,Chocolate,Bakery,abc,10,2024-01-19
+20,Banana,Fruit,0.5,20,2024-01-02

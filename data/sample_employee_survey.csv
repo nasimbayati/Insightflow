@@ -1,0 +1,13 @@
+employee_code,department,work_mode,tenure_years,training_hours,engagement_score,survey_submitted,manager_rating
+E100,Engineering,Hybrid,4,18,84,2026-03-01,4.3
+E101,Design,Remote,2,12,78,2026-03-01,4.1
+E102,Sales,Onsite,6,8,69,2026-03-02,3.8
+E103,Engineering,Hybrid,4,18,84,2026-03-01,4.3
+E104,HR,Remote,,10,88,2026-03-03,4.7
+E105,Finance,Onsite,9,5,missing,2026-03-04,4.0
+E106,Sales,Hybrid,1,22,91,,4.5
+E107,Operations,Onsite,12,3,55,2026-03-05,2.9
+E108,Engineering,Remote,3,16,86,invalid_date,4.4
+E109,Finance,Hybrid,7,7,73,2026-03-06,excellent
+E110,Customer Success,Remote,2,14,82,2026-03-07,4.2
+E111,Operations,Onsite,12,120,58,2026-03-08,3.0
