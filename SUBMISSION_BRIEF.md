@@ -4,6 +4,10 @@ Recommended title:
 
 `InsightFlow: Decision-Ready Answers from Messy CSVs`
 
+Submission description:
+
+`InsightFlow turns messy CSVs into a decision brief instead of a raw table dump. I built it so students, analysts, and teams can upload unpredictable files and quickly understand quality risks, key drivers, and next actions. Built with Codex as a Streamlit pipeline with ingestion checks, schema validation, configurable cleaning, role-aware charts, rule-based insights, and downloadable reports.`
+
 One-line pitch:
 
 `A production-style CSV analytics app that cleans messy files and turns them into decision-ready insights.`

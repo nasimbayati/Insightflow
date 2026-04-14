@@ -16,11 +16,11 @@
 
 ## 500-Character Submission Description
 
-`InsightFlow turns messy CSVs into decision-ready answers. It validates file quality, handles malformed rows, infers schema, applies configurable cleaning, generates summary stats and charts, and produces structured insights with risks, key drivers, and next actions. It works without API access by default, with an optional LLM layer for richer narrative summaries and custom analysis requests.`
+`InsightFlow turns messy CSVs into a decision brief instead of a raw table dump. I built it so students, analysts, and teams can upload unpredictable files and quickly understand quality risks, key drivers, and next actions. Built with Codex as a Streamlit pipeline with ingestion checks, schema validation, configurable cleaning, role-aware charts, rule-based insights, and downloadable reports.`
 
 Character count target:
 
-- approximately 394 characters
+- 397 characters
 
 ## Recommended Demo Dataset
 
@@ -35,8 +35,8 @@ Why use it:
 
 ## 60-Second Demo Script
 
-1. `Open the app and choose the bundled demo dataset: Revenue Operations Showcase.`
-2. `Point to Decision Mode and read the quality score, insight confidence, top risk, key driver, and first recommended action.`
+1. `Open the app. The bundled Revenue Operations Showcase is loaded by default.`
+2. `Point to the Boardroom Brief and read the quality score, insight confidence, top risk, key driver, and first recommended action.`
 3. `Show the Column Roles controls and explain that InsightFlow can treat fields as IDs, time axes, metrics, segments, or outcomes instead of hardcoding demo columns.`
 4. `Open Data Validation and show the missing values, duplicate records, and invalid numeric/date entries.`
 5. `Point to Cleaning Impact and mention that the pipeline uses configurable cleaning rather than a hardcoded policy.`

@@ -31,9 +31,10 @@ def render_hero():
                     Upload any CSV or open a bundled demo. InsightFlow validates data quality, cleans issues, surfaces the main risks and drivers, and explains what to do next.
                 </div>
                 <div class="if-hero-proof">
+                    <div class="if-hero-proof-chip">Default demo opens a Boardroom Brief immediately</div>
                     <div class="if-hero-proof-chip">Structured validation before analysis</div>
-                    <div class="if-hero-proof-chip">Built-in charts and guided exploration</div>
-                    <div class="if-hero-proof-chip">Useful even without API access</div>
+                    <div class="if-hero-proof-chip">Role-aware charts, not hardcoded columns</div>
+                    <div class="if-hero-proof-chip">Works without API access</div>
                 </div>
             </div>
         </div>
@@ -52,6 +53,7 @@ def render_demo_dataset_card(demo_info):
     st.markdown(
         f"""
         <div class="if-demo-card">
+            <div class="if-empty-kicker">Judge-ready default</div>
             <div class="if-demo-title">{escape(demo_info["file_name"])}</div>
             <div class="if-demo-copy">{escape(demo_info["tagline"])}</div>
             <ul class="if-demo-list">{highlights}</ul>

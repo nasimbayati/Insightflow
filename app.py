@@ -731,7 +731,7 @@ layout_render_section_header(
 
 input_mode = st.radio(
     "How do you want to start?",
-    ["Upload CSV", "Bundled demo dataset"],
+    ["Bundled demo dataset", "Upload CSV"],
     horizontal=True,
 )
 
@@ -747,7 +747,9 @@ if input_mode == "Bundled demo dataset":
     demo_info = DEMO_DATASETS[selected_demo_label]
     layout_render_demo_dataset_card(demo_info)
     uploaded_file = layout_load_demo_uploaded_file(DATA_DIR, demo_info["file_name"])
-    st.success(f"Loaded bundled demo dataset: {demo_info['file_name']}")
+    st.success(
+        f"Loaded bundled demo dataset: {demo_info['file_name']}. This is the fastest path for reviewers: the Boardroom Brief appears below with no setup required."
+    )
 else:
     st.caption(
         f"Recommended showcase path: start with {SHOWCASE_DEMO_LABEL} once you want the strongest one-minute demo."
